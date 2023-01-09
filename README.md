@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>I'm Lithira Amarasinghe</p>
+<p>Software enginnering undergraduate student</p>
+- 🌱 I’m currently learning in Informatics Institute of Technology which is affilated with University of Westminster in UK
