@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <p>Software enginnering undergraduate student</p>
-- 🌱 I’m currently learning in Informatics Institute of Technology which is affilated with University of Westminster in UK
+- 🌱 I’m currently learning in Informatics Institute of Technology <span><img width="50px" src="https://www.iit.ac.lk/wp-content/themes/iitcampus/assets/img/logo-white.png"></span> which is affilated with University of Westminster <span><img width="50px" src="https://d201g1c8t1ay3d.cloudfront.net/wp-content/uploads/2019/10/University-of-Westminster-logo.jpg"></span> in UK
