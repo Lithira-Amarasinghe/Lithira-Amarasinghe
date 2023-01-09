@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Lithira Amarasinghe
 
 <!--
 **Lithira-Amarasinghe/Lithira-Amarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I'm Lithira Amarasinghe</p>
 <p>Software enginnering undergraduate student</p>
 - 🌱 I’m currently learning in Informatics Institute of Technology which is affilated with University of Westminster in UK
