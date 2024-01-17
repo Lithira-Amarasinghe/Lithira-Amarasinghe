@@ -6,8 +6,8 @@ I've been learning coding for 2 years. Mainly working with Java - Springboot, An
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [amarasinghelithira@gmail.com](mailto:amarasinghelithira@gmail.com)
 * 🧠  I'm learning TensorFlow, Angular and Springboot
-* 🤝  I'm open to collaborating on software projects
-* ⚡  I'm a software developers and freelancer and open to work on projects
+* 🤝  I'm open to collaborating on software projects give solutions for real-world problems
+* ⚡  I'm a software developers, freelancer and open to work on tech projects provide great solutions for your needs.
 
 <a href="https://www.github.com/Lithira-Amarasinghe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Lithira-Amarasinghe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
